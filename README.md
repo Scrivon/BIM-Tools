@@ -4,13 +4,13 @@ To Install:
 
 2. Ensure you are using the latest version of Revit (2022.1.7, 2023.1.5)
 
-3. Save "extensions.json" provided by Joe Wemyss to: C:\Users\wemyssj\AppData\Roaming\pyRevit-Master\extensions
+3. Save "extensions.json" provided by Joe Wemyss to: C:\Users\YOURUSERNAME\AppData\Roaming\pyRevit-Master\extensions
 
-4. Save "Dynamo Revit" Folder provided by Joe Wemyss to C:\Users\wemyssj\AppData\Roaming\Dynamo
+4. Save "Dynamo Revit" Folder provided by Joe Wemyss to C:\Users\YOURUSERNAME\AppData\Roaming\Dynamo
 
 5. Open Revit
 
-6. Find pyRevit in ribbon. On the left hand side click the pyRevit drop down > Extensions and install extension "BIM Tools" by Joe Wemyss. Save to default location on C:\ Drive
+6. Find pyRevit in ribbon. On the left hand side click the pyRevit drop down > Extensions and install extension "BIMTools". Save to default location on C:\ Drive
 
 6b. if download doesn't work, Repository may be set to private. Ask Joe Wemyss to make public and try again
 
