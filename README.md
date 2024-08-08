@@ -12,3 +12,5 @@ To Install:
 
 
 Version 1.0.0: Pile E+N, Pile Renumbering, Quick Links
+Version 1.0.1: E+N+Z UpToDate Added
+
