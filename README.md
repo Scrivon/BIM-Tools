@@ -11,6 +11,6 @@ To Install:
 9.	Copy “pyRevit_config”, SAVED HERE and paste to: C:\Users\YOURUSERNAME\AppData\Roaming\pyRevit
 
 
-Version 1.0.0: Pile E+N, Pile Renumbering, Quick Links
+Version 1.0.0: Pile E+N, Pile Renumbering, Quick Links \
 Version 1.0.1: E+N+Z UpToDate Added
 
