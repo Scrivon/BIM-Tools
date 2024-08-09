@@ -14,5 +14,5 @@ To Install:
 Version 1.0.00: 'Pile E+N', 'Pile Renumbering', 'Quick Links' Added \
 Version 1.0.01: 'E+N+Z UpToDate' Added \
 Version 1.0.02: 'Pile Renumbering' reliance on GeniusLoci Removed, PackagesUsed.txt added to all custom tools \
-Version 1.0.03: 'Pile Renumbering' Now allows starting number and outputs number of piles renamed. 'Pile E+N' also outputs number of piles coordinated \
+Version 1.0.03: 'Pile Renumbering' Now allows starting number and outputs number of piles renamed. 'Pile E+N' also outputs number of piles coordinated
 
