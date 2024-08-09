@@ -12,5 +12,6 @@ To Install:
 
 
 Version 1.0.00: Pile E+N, Pile Renumbering, Quick Links \
-Version 1.0.01: E+N+Z UpToDate Added
+Version 1.0.01: E+N+Z UpToDate Added \
+Version 1.0.02: 'Pile Renumbering' reliance on GeniusLoci Removed, PackagesUsed.txt added to all custom tools
 
