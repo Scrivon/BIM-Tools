@@ -11,7 +11,8 @@ To Install:
 9.	Copy “pyRevit_config”, SAVED HERE and paste to: C:\Users\YOURUSERNAME\AppData\Roaming\pyRevit
 
 
-Version 1.0.00: Pile E+N, Pile Renumbering, Quick Links \
-Version 1.0.01: E+N+Z UpToDate Added \
-Version 1.0.02: 'Pile Renumbering' reliance on GeniusLoci Removed, PackagesUsed.txt added to all custom tools
+Version 1.0.00: 'Pile E+N', 'Pile Renumbering', 'Quick Links' Added \
+Version 1.0.01: 'E+N+Z UpToDate' Added \
+Version 1.0.02: 'Pile Renumbering' reliance on GeniusLoci Removed, PackagesUsed.txt added to all custom tools \
+Version 1.0.03: 'Pile Renumbering' Now allows starting number and outputs number of piles renamed. 'Pile E+N' also outputs number of piles coordinated \
 
